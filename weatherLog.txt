@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - MANCHESTER  || 09 Nov 2023 | 10:05:27 AM
+-------------------------------------------------------------
+	Current temperature is : 7.71 °C
+	Current weather desc   : scattered clouds
+	Current Humidity       : 81 %
+	Current wind speed     : 3.09 km/h 
